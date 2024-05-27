@@ -1,2 +1,2 @@
 # PRODIGY_WD_03
-PRODIGY INFO TECH TASKS
+Tic-Tac-Toe Web Application
